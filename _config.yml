@@ -1,0 +1,5 @@
+# 이 파일은 문서가 아니라 GitHub Pages 빌드 설정이다.
+# 없으면 Markdown 이 스타일 없이 나가 표가 전부 뭉개진다 — 이 방침은 표가 많다.
+theme: jekyll-theme-primer
+title: 방방긁긁 개인정보처리방침
+lang: ko
